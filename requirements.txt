@@ -1,0 +1,5 @@
+Telethon
+pyTelegramBotAPI
+PyAutoGUI
+opencv-python
+asyncio
